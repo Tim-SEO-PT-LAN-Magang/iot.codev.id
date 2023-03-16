@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/berita</loc>
+		<loc>https://iot.codev.id/berita</loc>
 		<lastmod>2023-03-02T08:51:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/</loc>
+		<loc>https://iot.codev.id/</loc>
 		<lastmod>2023-03-03T04:12:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/sidebar-iot-codev.png</image:loc>
@@ -78,7 +78,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot</loc>
 		<lastmod>2023-03-08T04:58:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -124,7 +124,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/end-to-end-internet-of-things-iot-solution</loc>
+		<loc>https://iot.codev.id/jasa-iot/end-to-end-internet-of-things-iot-solution</loc>
 		<lastmod>2023-03-08T04:50:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -158,7 +158,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/integrasi-cloud-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/integrasi-cloud-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:49:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -192,7 +192,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/pemeliharaan-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/pemeliharaan-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:47:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -226,7 +226,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/pengujian-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/pengujian-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:43:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -260,7 +260,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/desain-dan-pembuatan-pcb</loc>
+		<loc>https://iot.codev.id/jasa-iot/desain-dan-pembuatan-pcb</loc>
 		<lastmod>2023-03-08T04:41:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -294,7 +294,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/pembuatan-aplikasi-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/pembuatan-aplikasi-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:39:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -328,7 +328,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/integrasi-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/integrasi-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:36:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -362,7 +362,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/konsultasi-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/konsultasi-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:34:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -399,7 +399,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/prototipe-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/prototipe-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:31:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Konsultasi-IoT.jpg</image:loc>
@@ -433,7 +433,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jasa-iot/analisis-data-internet-of-things-iot</loc>
+		<loc>https://iot.codev.id/jasa-iot/analisis-data-internet-of-things-iot</loc>
 		<lastmod>2023-03-08T04:18:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Analisis-Data-IoT-1024x573.jpeg</image:loc>
@@ -470,11 +470,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak</loc>
+		<loc>https://iot.codev.id/kontak</loc>
 		<lastmod>2023-03-02T08:48:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tentang-kami</loc>
+		<loc>https://iot.codev.id/tentang-kami</loc>
 		<lastmod>2023-03-02T08:36:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/pexels-fauxels-3184436.jpg</image:loc>
@@ -508,7 +508,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/testimonials-2</loc>
+		<loc>https://iot.codev.id/testimonials-2</loc>
 		<lastmod>2023-03-02T03:27:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/pexels-fauxels-3228897-1.jpg</image:loc>
@@ -521,7 +521,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-2</loc>
+		<loc>https://iot.codev.id/about-2</loc>
 		<lastmod>2023-03-02T03:27:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/pexels-fauxels-3184436-1.jpg</image:loc>
@@ -600,7 +600,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/features-2</loc>
+		<loc>https://iot.codev.id/features-2</loc>
 		<lastmod>2023-03-02T03:27:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/f_01-1.jpg</image:loc>
@@ -625,7 +625,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/features</loc>
+		<loc>https://iot.codev.id/features</loc>
 		<lastmod>2023-03-02T02:52:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/f_01.jpg</image:loc>
@@ -650,7 +650,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about</loc>
+		<loc>https://iot.codev.id/about</loc>
 		<lastmod>2023-03-02T02:52:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/pexels-fauxels-3184436.jpg</image:loc>
@@ -729,7 +729,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/home</loc>
+		<loc>https://iot.codev.id/home</loc>
 		<lastmod>2023-03-02T02:52:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/12/a_store.png</image:loc>
@@ -793,7 +793,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/testimonials</loc>
+		<loc>https://iot.codev.id/testimonials</loc>
 		<lastmod>2021-01-13T16:03:02+00:00</lastmod>
 	</url>
 </urlset>

@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/berita</loc>
+		<loc>https://iot.codev.id/berita</loc>
 	</url>
 	<url>
-		<loc>/internet-of-things-dan-peranannya-dalam-pendidikan.html</loc>
+		<loc>https://iot.codev.id/internet-of-things-dan-peranannya-dalam-pendidikan.html</loc>
 		<lastmod>2023-03-06T08:21:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/pemanfaatan-internet-of-things-untuk-mendukung-industri-pariwisata.html</loc>
+		<loc>https://iot.codev.id/pemanfaatan-internet-of-things-untuk-mendukung-industri-pariwisata.html</loc>
 		<lastmod>2023-03-06T08:16:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/membangun-sistem-keamanan-berbasis-internet-of-things-untuk-lingkungan-rumah-tangga.html</loc>
+		<loc>https://iot.codev.id/membangun-sistem-keamanan-berbasis-internet-of-things-untuk-lingkungan-rumah-tangga.html</loc>
 		<lastmod>2023-03-06T08:06:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/pengenalan-konsep-smart-city-integrasi-internet-of-things-dalam-tata-kelola-kota.html</loc>
+		<loc>https://iot.codev.id/pengenalan-konsep-smart-city-integrasi-internet-of-things-dalam-tata-kelola-kota.html</loc>
 		<lastmod>2023-03-06T07:57:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/meningkatkan-produktivitas-dengan-internet-of-things-di-lingkungan-bisnis.html</loc>
+		<loc>https://iot.codev.id/meningkatkan-produktivitas-dengan-internet-of-things-di-lingkungan-bisnis.html</loc>
 		<lastmod>2023-03-06T07:43:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/menjaga-privasi-pengguna-dalam-sistem-internet-of-things.html</loc>
+		<loc>https://iot.codev.id/menjaga-privasi-pengguna-dalam-sistem-internet-of-things.html</loc>
 		<lastmod>2023-03-06T07:38:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bagaimana-iot-mengubah-cara-kita-hidup-dan-bekerja-di-era-digital.html</loc>
+		<loc>https://iot.codev.id/bagaimana-iot-mengubah-cara-kita-hidup-dan-bekerja-di-era-digital.html</loc>
 		<lastmod>2023-03-06T07:30:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Internet-of-Things-Codev.id_.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/perkembangan-teknologi-internet-of-things-di-era-digitalisasi.html</loc>
+		<loc>https://iot.codev.id/perkembangan-teknologi-internet-of-things-di-era-digitalisasi.html</loc>
 		<lastmod>2023-03-06T07:29:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/internet-of-things-dan-perannya-dalam-masa-depan-industri-4-0.html</loc>
+		<loc>https://iot.codev.id/internet-of-things-dan-perannya-dalam-masa-depan-industri-4-0.html</loc>
 		<lastmod>2023-03-06T07:28:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/solusi-smart-home-pemanfaatan-teknologi-internet-of-things-untuk-kehidupan-yang-lebih-nyaman.html</loc>
+		<loc>https://iot.codev.id/solusi-smart-home-pemanfaatan-teknologi-internet-of-things-untuk-kehidupan-yang-lebih-nyaman.html</loc>
 		<lastmod>2023-03-06T07:28:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/pemanfaatan-internet-of-things-untuk-meningkatkan-efisiensi-energi-di-lingkungan-industri.html</loc>
+		<loc>https://iot.codev.id/pemanfaatan-internet-of-things-untuk-meningkatkan-efisiensi-energi-di-lingkungan-industri.html</loc>
 		<lastmod>2023-03-06T07:27:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/dampak-teknologi-internet-of-things-pada-dunia-kesehatan.html</loc>
+		<loc>https://iot.codev.id/dampak-teknologi-internet-of-things-pada-dunia-kesehatan.html</loc>
 		<lastmod>2023-03-06T07:27:09+00:00</lastmod>
 	</url>
 </urlset>
